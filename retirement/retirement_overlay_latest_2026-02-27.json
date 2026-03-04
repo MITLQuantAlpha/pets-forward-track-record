@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-03-04 18:56",
+  "asof_date": "2026-02-27",
+  "phase": "Participation Phase",
+  "risk_state": "Normal",
+  "leader": "Broad Market",
+  "action_text": "PETS is holding - no significant shift in market activity",
+  "structural_interpretation": "System is holding. No material change to deployment stance. Consistent with maintaining current allocation without action.",
+  "history": [
+    {
+      "week": "2025-11-21",
+      "phase": "Accumulation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is adding - buying signals expanding, Basic Materials leading"
+    },
+    {
+      "week": "2025-11-28",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2025-12-05",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2025-12-12",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2025-12-19",
+      "phase": "Accumulation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is adding - buying signals expanding, Consumer Defensive leading"
+    },
+    {
+      "week": "2025-12-26",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-01-02",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-01-09",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-01-16",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-01-23",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-01-30",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-02-06",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-02-13",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-02-20",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    },
+    {
+      "week": "2026-02-27",
+      "phase": "Participation Phase",
+      "risk_state": "Normal",
+      "system_status": "PETS is holding - no significant shift in market activity"
+    }
+  ]
+}

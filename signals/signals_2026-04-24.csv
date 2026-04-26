@@ -1,0 +1,4 @@
+signal_date,symbol,signal_type,planned_execute,execution_price
+2026-04-24,CAH,EXIT,2026-04-24,close
+2026-04-24,GD,EXIT,2026-04-24,close
+2026-04-24,MTN,EXIT,2026-04-24,close
